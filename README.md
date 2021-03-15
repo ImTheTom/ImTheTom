@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @ImTheTom
+- 👋 Hi, I’m Tom Bowyer
 - 🌱 I’m currently doing a research project at QUT
